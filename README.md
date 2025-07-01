@@ -119,3 +119,4 @@ https://www.twitch.tv/videos/1966225257
 ### Первый SL1 ран (main bosses)
 ![alt text](Img/image23.png)
 ![alt text](Img/image24.png)
+![alt text](Img/image1337.png)
