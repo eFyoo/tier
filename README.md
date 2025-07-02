@@ -795,13 +795,253 @@ https://www.twitch.tv/videos/1966225257
 
 # элизабет - худший босс за всю историю майнкрафта (Difficulty: PATH OF THE MASTER NINJA: PUNISHING; Ver.1.0.7.0) (Difficulty: PATH OF THE MENTOR: VERY HARD; Ver.1.0.5.0)
 
-![alt text](image283.png)
-![alt text](image284.png)
-![alt text](image285.png)
-![alt text](image286.png)
-![alt text](image287.png)
-![alt text](image288.png)
-![alt text](image289.png)
+![alt text](Img/image283.png)
+![alt text](Img/image284.png)
+![alt text](Img/image285.png)
+![alt text](Img/image286.png)
+![alt text](Img/image287.png)
+![alt text](Img/image288.png)
+![alt text](Img/image289.png)
 
+# ПИКОПАРК (4 чел)
 
+![alt text](Img/image290.png)
+![alt text](Img/image291.png)
+![alt text](Img/image292.png)
+
+# I’ve got a bigger dick (сложность: нефилим (Данте и Вергилий))
+
+![alt text](Img/image293.png)
+![alt text](Img/image294.png)
+![alt text](Img/image295.png)
+![alt text](Img/image296.png)
+
+# бэктрекинг гейминг (сложность: охотник на демонов; неро/данте)
+
+![alt text](Img/image297.png)
+![alt text](Img/image298.png)
+![alt text](Img/image299.png)
+
+# жестер3 (main game: Platforming difficulty: normal; Combat difficulty: challenge Jester)(v1.2f) + DLC OUT OF BOUNDS (Combat difficulty: easy Jester)
+Эндлесс дайв (духота, на некоторых этажах максимально нечестная, даже на харде) немного подпортил впечатление от игры, но в общем, она шикарная
+
+![alt text](Img/image300.png)
+![alt text](Img/image301.png)
+![alt text](Img/image302.png)
+![alt text](Img/image303.png)
+![alt text](Img/image304.png)
+![alt text](Img/image305.png)
+![alt text](Img/image306.png)
+![alt text](Img/image307.png)
+
+# сплит (все сайд миры пройдены)
+
+![alt text](Img/image308.png)
+![alt text](Img/image309.png)
+![alt text](Img/image310.png)
+![alt text](Img/image311.png)
+Я не уверен, что стим посчитал все часы, которые были проведены в первый день
+
+# сигма2 (Difficulty: PATH OF THE MASTER NINJA: PUNISHING)
+
+![alt text](Img/image312.png)
+![alt text](Img/image313.png)
+![alt text](Img/image314.png)
+![alt text](Img/image315.png)
+
+# визарды (1 прохождение)
+
+![alt text](Img/image316.png)
+![alt text](Img/image317.png)
+![alt text](Img/image318.png)
+![alt text](Img/image319.png)
+
+# МИ?ГОНГАГА (difficulty: hard) (v1.03)
+
+![alt text](Img/image320.png)
+![alt text](Img/image321.png)
+![alt text](Img/image322.png)
+![alt text](Img/image323.png)
+
+# лимитаи (True ending (All endings); All Bosses; All NPC Questlines)
+Я воспользовался небольшим сейв скамом, чтобы выбить все 3 концовки за одно прохождение. Если об игре, то парирование слишком сильное. Было бы неплохо его занерфить, так как оно ОП, по сравнению с другими способами избегать урон. Еще и практически всех мобов так можно убить без особых проблем (оно не такое имбалансное только на тех боссах, которые не падают после одного пэрри, но их штуки 3 на всю игру). Очень много натырили с элдена и бладборна (даже для квестов не сделали никакого журнала, что очень раздражает, потому что потом приходится залезать в интернет). У большого количества оружия идентичный мувсет, только специальная атака меняется, грустно. Но хотя бы много прикольных костюмов завезли. Были шикарные боссы, были просто норм, но прям отвратительных не было. Визуал и графика норм. В целом, неплохая игра, но ничего выдающегося
+
+![alt text](Img/imageAIL.png)
+![alt text](Img/image-1AIL.png)
+![alt text](Img/image-2AIL.png)
+![alt text](Img/image-3AIL.png)
+![alt text](Img/image-4AIL.png)
+![alt text](Img/image-5AIL.png)
+![alt text](Img/image-6AIL.png)
+![alt text](Img/image-7AIL.png)
+![alt text](Img/image-8AIL.png)
+
+# Witch May Cry (Сложность: нормал)
+
+![alt text](Img/image324.png)
+![alt text](Img/image325.png)
+![alt text](Img/image326.png)
+![alt text](Img/image327.png)
+
+# нахобихо (Canon of Vengeance Chaos Ending; difficulty: Hard; Physical Build, Murakumo Gaming)
+Демифинд и Сатана скипнуты, очень долго бы пришлось собирать демонов под них. Практически все сайд квесты выполнены. Отличная игра, определенно лучшая в серии SMT
+
+![alt text](Img/imageSMT5V.png)
+![alt text](Img/image-1SMT5V.png)
+![alt text](Img/image-2SMT5V.png)
+![alt text](Img/image-3SMT5V.png)
+![alt text](Img/image-4SMT5V.png)
+![alt text](Img/image-5SMT5V.png)
+![alt text](Img/image-6SMT5V.png)
+![alt text](Img/image-7SMT5V.png)
+![alt text](Img/image-8SMT5V.png)
+![alt text](Img/image-9SMT5V.png)
+![alt text](Img/image-10SMT5V.png)
+![alt text](Img/image-11SMT5V.png)
+
+# шифт происходит (мультиплеер)
+
+![alt text](Img/image328.png)
+![alt text](Img/image329.png)
+![alt text](Img/image330.png)
+![alt text](Img/image331.png)
+
+# Heh… It’s apocalypse time (difficulty: War; all endings; mage build)
+Бой с финальным боссом выглядит пиздато, но именно сражаться против него на предпоследней сложности максимальный рак мозга. Немного неудачного рандома и можно отправляться заново его убивать минут 30 + успех очень сильно зависит от твоей пачки, буквально стак мечты надо собрать + еще и мана кост напрягает. Еще и экономика максимально убитая в игре. Денег очень мало дают, цены в магазинах просто космические. Пришлось на Яхву докачивать все длц на фарм, чтобы не задушиться об гринд. Походу реально под дополнения для фарма балансили экономику (достаточно новая практика для атлус давать все самое имбовое за лишние деньги). За исключением этих моментов, в остальном, достаточно неплохая игра. Гораздо бодрее оригинальной четвертой части
+
+## Концовка с Дагдой
+
+![alt text](Img/image332.png)
+![alt text](Img/image333.png)
+![alt text](Img/image334.png)
+![alt text](Img/image335.png)
+![alt text](Img/image336.png)
+
+## Концовка с друзьями
+
+![alt text](Img/image337.png)
+![alt text](Img/image338.png)
+![alt text](Img/image339.png)
+![alt text](Img/image340.png)
+![alt text](Img/image341.png)
+
+## Концовка “хаос”
+
+![alt text](Img/image342.png)
+
+## Концовка “закон”
+
+![alt text](Img/image343.png)
+
+![alt text](Img/image344.png)
+![alt text](Img/image345.png)
+![alt text](Img/image346.png)
+![alt text](Img/image347.png)
+![alt text](Img/image348.png)
+![alt text](Img/image349.png)
+
+# абобед (сложность: “Путь проклятых”; магический билд)
+Свап с ренж билда на магию в третьей локации
+
+![alt text](Img/imageAvowed.png)
+![alt text](Img/image-1Avowed.png)
+![alt text](Img/image-2Avowed.png)
+![alt text](Img/image-3Avowed.png)
+![alt text](Img/image-4Avowed.png)
+![alt text](Img/image-5Avowed.png)
+![alt text](Img/image-6Avowed.png)
+![alt text](Img/image-7Avowed.png)
+![alt text](Img/image-8Avowed.png)
+![alt text](Img/image-9Avowed.png)
+![alt text](Img/image-10Avowed.png)
+![alt text](Img/image-11Avowed.png)
+![alt text](Img/image-12Avowed.png)
+![alt text](Img/image-13Avowed.png)
+![alt text](Img/image-14Avowed.png)
+![alt text](Img/image-15Avowed.png)
+![alt text](Img/image-16Avowed.png)
+![alt text](Img/image-17Avowed.png)
+![alt text](Img/image-18Avowed.png)
+![alt text](Img/image-19Avowed.png)
+![alt text](Img/image-20Avowed.png)
+![alt text](Img/image-21Avowed.png)
+![alt text](Img/image-22Avowed.png)
+![alt text](Img/image-23Avowed.png)
+![alt text](Img/image-24Avowed.png)
+
+# магики (2 игрока)
+Не повторяйте моей ошибки, не играйте в это на геймпаде. Ну и без фанатских патчей тоже (хотя и с ними тоже не все идеально)
+
+![alt text](Img/image350.png)
+![alt text](Img/image351.png)
+![alt text](Img/image352.png)
+![alt text](Img/image353.png)
+
+# финалочка16 (сложность: “Игровой процесс”; мейн сюжет + 2 длц; где-то процентов 80 побочек выполнено)
+Не хватает сложности в мейн сюжетке, кат сценами слишком много кормят. Сайд квесты (в большинстве случаев) унылые. В остальном, абсолют синема
+
+![alt text](Img/imageFF16.png)
+![alt text](Img/image-1FF16.png)
+![alt text](Img/image-2FF16.png)
+![alt text](Img/image-3FF16.png)
+![alt text](Img/image-4FF16.png)
+![alt text](Img/image-5FF16.png)
+![alt text](Img/image-6FF16.png)
+![alt text](Img/image-7FF16.png)
+![alt text](Img/image-8FF16.png)
+![alt text](Img/image-9FF16.png)
+![alt text](Img/image-10FF16.png)
+![alt text](Img/image-11FF16.png)
+![alt text](Img/image-12FF16.png)
+![alt text](Img/image-13FF16.png)
+![alt text](Img/image-14FF16.png)
+
+# магики 2 (4 игрока; сложность: нормал)
+
+![alt text](Img/image354.png)
+![alt text](Img/image355.png)
+![alt text](Img/image356.png)
+
+# 33 (сложность: “Вызов”; все сложные опциональные боссы пройдены; карта вся изучена)
+
+![alt text](Img/imageClair.png)
+![alt text](Img/image-1Clair.png)
+![alt text](Img/image-2Clair.png)
+![alt text](Img/image-3Clair.png)
+![alt text](Img/image-4Clair.png)
+![alt text](Img/image-5Clair.png)
+![alt text](Img/image-6Clair.png)
+мега чиз Симона хд
+
+![alt text](Img/image-7Clair.png)
+![alt text](Img/image-8Clair.png)
+![alt text](Img/image-9Clair.png)
+![alt text](Img/image-10Clair.png)
+![alt text](Img/image-11Clair.png)
+![alt text](Img/image-12Clair.png)
+![alt text](Img/image-13Clair.png)
+![alt text](Img/image-14Clair.png)
+![alt text](Img/image-15Clair.png)
+![alt text](Img/image-16Clair.png)
+![alt text](Img/image-17Clair.png)
+![alt text](Img/image-18Clair.png)
+
+# марвелc спидер мэн ремастеред (сложность: “потрясающий”; 100% прохождение основная сюжетка + 3 длц)
+
+![alt text](Img/image357.png)
+![alt text](Img/image358.png)
+![alt text](Img/image359.png)
+![alt text](Img/image360.png)
+![alt text](Img/image361.png)
+![alt text](Img/image362.png)
+![alt text](Img/image363.png)
+
+# venom
+
+![alt text](Img/image364.png)
+![alt text](Img/image365.png)
+![alt text](Img/image366.png)
+![alt text](Img/image367.png)
+![alt text](Img/image368.png)
+![alt text](Img/image369.png)
 
