@@ -1,3 +1,5 @@
+<span style = "font-family: Comic Sans MS">
+
 |Оценка|Игры|
 |:-:|:-:|
 |Маст плей (10)|Sekiro: Shadows Die Twice, Dishonored 2, Dishonored, Lies of P, Dark Souls 3, Kingdom Hearts 3, Shin Megami Tensei V: Vengeance, GTA:SA, TES IV: Oblivion, TES V: Skyrim, Clair Obscur: Expedition 33, Hollow Knight, Batman: Arkham Knight, Rogue Legacy 2, Salt and Sanctuary, Devil May Cry 3, [Hi-Fi RUSH](#hi-fi-rush-высокий-уровень-сложности-и-виртуоз), Furi, Spider-Man: Shattered Dimensions, Spore, Persona 5 Royal, Armored Core VI, Resident Evil 4 Remake, Lego Batman 2: DC Super Heroes, Undertale, The Legend of Zelda: Breath of the Wild, The Legend of Zelda: Tears of the Kingdom, Baldur’s Gate III, Nioh 2, Simpsons hit and run, Final Fantasy VII Remake Intergrade, Split Fiction, It Takes Two, Devil May Cry 5, Ghost of Tsushima Director's Cut, Terraria, Fallout: New Vegas, Dragon Age: Origins, Black Myth: Wukong, Shin Megami Tensei: Digital Devil Saga 2, Monster Hunter Rise: Sunbreak, Spark the Electric Jester 3, Sonic Frontiers - The Final Horizon
