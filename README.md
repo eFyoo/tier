@@ -1,4 +1,43 @@
+<div markdown="1">
+<style>
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: none;
+}
+
+.back-to-top:hover {
+  background-color: #0056b3;
+}
+
+.back-to-top.show {
+  display: block;
+}
+</style>
+</div>
+
 <a id="top"></a>
+
+<a href="#top" class="back-to-top">
+  <span>&#9650;</span>
+</a>
+
+<script>
+window.onscroll = function() {
+  var button = document.querySelector('.back-to-top');
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    button.classList.add('show');
+  } else {
+    button.classList.remove('show');
+  }
+};
+</script>
 
 
 |Оценка|Игры|
