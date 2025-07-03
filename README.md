@@ -1,5 +1,3 @@
-
-
 <span style = "font-family: Comic Sans MS">
 
 |Оценка|Игры|
