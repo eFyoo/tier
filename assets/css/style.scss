@@ -59,23 +59,3 @@ td {
   background-color: #0d1117;
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
-
-#scrollTopBtn {
-  position: fixed;
-  bottom: 30px;
-  right: 30px;
-  z-index: 999;
-  background-color: #21262d;
-  color: #c9d1d9;
-  border: none;
-  padding: 10px 15px;
-  font-size: 20px;
-  border-radius: 5px;
-  cursor: pointer;
-  display: none;
-  box-shadow: 0 0 10px rgba(0,0,0,0.5);
-}
-
-#scrollTopBtn:hover {
-  background-color: #30363d;
-}
