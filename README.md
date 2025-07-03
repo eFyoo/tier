@@ -4,7 +4,7 @@
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background-color: #007bff;
+  background-color: #58a6ff;
   color: white;
   padding: 10px 15px;
   border-radius: 5px;
@@ -13,7 +13,7 @@
 }
 
 .back-to-top:hover {
-  background-color: #0056b3;
+  background-color:rgb(64, 122, 187);
 }
 
 .back-to-top.show {
@@ -31,7 +31,7 @@
 <script>
 window.onscroll = function() {
   var button = document.querySelector('.back-to-top');
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+  if (document.body.scrollTop > 60 || document.documentElement.scrollTop > 60) {
     button.classList.add('show');
   } else {
     button.classList.remove('show');
