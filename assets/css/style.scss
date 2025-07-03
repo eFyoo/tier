@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body {
+html, body {
   background-color: #0d1117;
   color: #c9d1d9;
   font-family: 'Comic Sans MS', cursive, sans-serif;
@@ -15,5 +15,23 @@ a {
 
 h1, h2, h3, h4, h5 {
   color: #ffffff;
+}
+
+/* Стили для таблиц */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #161b22;
+  color: #c9d1d9;
   font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+th, td {
+  border: 1px solid #30363d;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #21262d;
 }
