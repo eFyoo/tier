@@ -1323,7 +1323,7 @@ Khazan Chain Ending
 ![alt text](Img/NinjaGaidenR_4.jpg)
 ![alt text](Img/NinjaGaidenR_5.jpg)
 
-# **Воины Рассвета затащили каточку второй раз**
+# **Воины Рассвета затащили каточку**
 Переработанная система профессий в этой части имба
 
 ![alt text](Img/FF5_1.png)
