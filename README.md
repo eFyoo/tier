@@ -1331,5 +1331,8 @@ Khazan Chain Ending
 ![alt text](Img/FF5_3.jpg)
 ![alt text](Img/FF5_4.jpg)
 ![alt text](Img/FF5_5.jpg)
+![alt text](Img/FF5_6.png)
+![alt text](Img/FF5_7.png)
+![alt text](Img/FF5_8.png)
 
 
