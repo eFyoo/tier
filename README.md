@@ -1398,8 +1398,3 @@ Khazan Chain Ending
 
 # **лучшая экшен и слэшер игра (сложность: высокая)**
 Платинумы сделали шедевр
-
-![alt text](Img/NG4_1.png)
-![alt text](Img/NG4_2.png)
-![alt text](Img/NG4_3.png)
-![alt text](Img/NG4_4.png)
