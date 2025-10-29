@@ -1405,3 +1405,4 @@ Khazan Chain Ending
 ![alt text](Img/NG4_4.png)
 ![alt text](Img/NG4_5.png)
 ![alt text](Img/NG4_6.png)
+![alt text](Img/NG4_7.png)
