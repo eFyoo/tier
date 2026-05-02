@@ -1,0 +1,16 @@
+# **соник закосплеил вергилия (сложность: хард) (в аркадном режиме выбиты все красные кольца и S’ки)**
+Длц [имба](https://youtu.be/UQJu4ojTURk?si=Wi-G8ZC_O3Nva0qD)
+
+![](../img/imageSF.png)
+![](../img/image-1SF.png)
+![](../img/image-2SF.png)
+![](../img/image-3SF.png)
+![](../img/image-4SF.png)
+![](../img/image-5SF.png)
+![](../img/image-6SF.png)
+![](../img/image-7SF.png)
+![](../img/image-8SF.png)
+![](../img/image-9SF.png)
+![](../img/image-10SF.png)
+![](../img/image-11SF.png)
+![](../img/image-12SF.png)
