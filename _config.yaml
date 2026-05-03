@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: "ефулист"
+description: "Обзоры и оценки"
+remote_theme: jekyll/minima
+minima:
+  skin: dark
