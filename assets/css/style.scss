@@ -8,7 +8,7 @@ $accent-magic: #b388ff;
 $text-main: #e0def4;     
 $border-color: #443e5a;
 $panel-bg: #241f31;
-$accent-links: #e6d5ff; // 3. Лавандовый лед
+$accent-links: #c79eff; // Насыщенный лавандовый (заметен на фоне текста)
 
 html {
   scroll-behavior: smooth;
@@ -31,44 +31,44 @@ body {
   font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
   max-width: 1000px;
   margin: 0 auto;
-  padding: 6rem 1.5rem !important; // Увеличил отступ сверху под большую надпись
+  padding: 6rem 1.5rem !important;
   position: relative;
 }
 
-// Навигационная ссылка tier (ОГРОМНАЯ, без увеличения)
+// Навигационная ссылка tier (ОГРОМНАЯ, без прыжков при наведении)
 .back-link {
   font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
   font-weight: bold;
   font-size: 42px; 
   color: $accent-magic !important;
-  text-decoration: none !important;
+  text-decoration: none !important; // Без подчеркивания
   position: absolute;
   top: 15px;
   left: 1.5rem;
   letter-spacing: 2px;
-  transition: text-shadow 0.2s ease; // Только для свечения
+  transition: text-shadow 0.2s ease;
 
   &:hover {
-    transform: none !important; // Убираем увеличение
+    transform: none !important;
     text-shadow: 0 0 15px $accent-magic;
   }
 }
 
-// Новая форма кнопки "Наверх"
+// Новая форма кнопки "Наверх" (вытянутая плашка)
 .scroll-to-top {
   position: fixed;
   bottom: 30px;
   right: 30px;
-  background: rgba(36, 31, 49, 0.8); // Полупрозрачный фон
+  background: rgba(36, 31, 49, 0.85);
   color: $accent-magic;
   border: 1px solid $border-color;
   padding: 8px 20px;
-  border-radius: 20px; // Вытянутая форма
-  text-decoration: none;
+  border-radius: 20px;
+  text-decoration: none !important;
   font-weight: bold;
   font-size: 14px;
   z-index: 100;
-  backdrop-filter: blur(5px); // Эффект стекла
+  backdrop-filter: blur(5px);
   transition: all 0.3s ease;
   display: flex;
   align-items: center;
@@ -80,14 +80,9 @@ body {
     border-color: $accent-magic;
     box-shadow: 0 0 15px rgba(179, 136, 255, 0.4);
   }
-  
-  &::before {
-    content: "↑"; // Стрелочка внутри
-    font-size: 18px;
-  }
 }
 
-// Заголовки
+// Заголовки (без наклона)
 h1, h2, h3, h4 {
   color: $accent-magic !important;
   border-bottom: 1px solid $border-color !important;
@@ -95,15 +90,17 @@ h1, h2, h3, h4 {
   font-weight: bold;
 }
 
-// Ссылки (Лавандовый лед)
+// Ссылки в тексте (теперь они заметны)
 a {
   color: $accent-links !important;
-  text-decoration: none !important;
+  text-decoration: underline !important; // Подчеркивание для отличия от текста
+  text-underline-offset: 3px;
   transition: all 0.2s ease;
   
   &:hover {
     color: #ffffff !important;
     text-shadow: 0 0 8px $accent-magic;
+    text-decoration: none !important;
   }
 }
 
