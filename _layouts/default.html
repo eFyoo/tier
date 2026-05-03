@@ -7,18 +7,16 @@
   <title>{{ page.title | default: site.title }}</title>
 </head>
 <body>
+  <body>
+    
+    {% if page.url != "/" %}
+      <a href="{{ '/' | relative_url }}" class="floating-home-btn" title="На главную">
+        🧹 <span>tier</span>
+      </a>
+    {% endif %}
+
   <main class="main-content">
-    <header>
-      <a href="{{ '/' | relative_url }}" class="back-link">tier</a>
-    </header>
-
     {{ content }}
-
-    <a href="#top" class="scroll-to-top" title="Наверх">↑ Наверх</a>
-
-    <footer class="site-footer" style="margin-top: 50px; border-top: 1px solid #443e5a; padding-top: 20px; color: #6e7681;">
-      eFyoo / tier
-    </footer>
-  </main>
+  </main> <a href="#top" class="scroll-to-top" title="Наверх">↑ Наверх</a>
 </body>
 </html>

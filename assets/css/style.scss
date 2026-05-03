@@ -24,16 +24,58 @@ body {
   color: $text-main !important;
   margin: 0;
   font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important; 
+
+  // --- ДОБАВЬ ЭТОТ БЛОК НИЖЕ ---
+  background-image: 
+    radial-gradient(1px 1px at 20px 30px, #fff, rgba(0,0,0,0)),
+    radial-gradient(1.5px 1.5px at 40px 70px, #fff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 50px 160px, $accent-magic, rgba(0,0,0,0)),
+    radial-gradient(1px 1px at 90px 40px, #fff, rgba(0,0,0,0));
+  background-repeat: repeat;
+  background-size: 200px 200px;
+  animation: stars-move 150s linear infinite; // Медленное движение
+}
+
+// Сама анимация движения
+@keyframes stars-move {
+  from { background-position: 0 0; }
+  to { background-position: 0 1000px; }
 }
 
 .main-content {
-  background-color: $bg-dark !important;
+  // 1. Стеклянный эффект (вместо глухого $bg-dark)
+  background-color: rgba(26, 22, 37, 0.7) !important; // Полупрозрачный фон
+  backdrop-filter: blur(12px) saturate(150%);         // Размытие фона за панелью
+  -webkit-backdrop-filter: blur(12px) saturate(150%); 
+  
+  // 2. Визуальные границы
+  border: 1px solid rgba(179, 136, 255, 0.2);         // Тонкая магическая рамка
+  border-radius: 20px;                                // Скругление углов
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.8);        // Глубокая тень для объема
+
+  // 3. Твои настройки текста и размеров
   color: $text-main !important;
   font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
   max-width: 1000px;
-  margin: 0 auto;
-  padding: 6rem 1.5rem !important;
   position: relative;
+
+  // 4. Твои настройки отступов (объединенные)
+  margin: 1rem auto 2rem auto; // Добавили отступ сверху/снизу 2rem, чтобы панель "парила" над звездами
+  padding: 0.2rem 1.5rem 0.2rem 1.5rem !important;
+
+  position: relative;
+  h1:first-child, h2:first-child {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  // 1. Помогает убрать "дрожание" при скролле
+  transform: translateZ(0); 
+  backface-visibility: hidden;
+  perspective: 1000;
+  
+  // 2. Если тряска остается, можно немного уменьшить размытие
+  backdrop-filter: blur(8px) saturate(150%);
 }
 
 // Навигационная ссылка tier (ОГРОМНАЯ, без прыжков при наведении)
@@ -57,28 +99,25 @@ body {
 
 // Новая форма кнопки "Наверх" (вытянутая плашка)
 .scroll-to-top {
-  position: fixed;
-  bottom: 30px;
-  right: 30px;
+  position: fixed; // Это делает её плавающей
+  bottom: 30px;    // Отступ от нижнего края
+  right: 30px;     // Отступ от правого края
+  z-index: 100;    // Чтобы была поверх контента
+  
   background: rgba(36, 31, 49, 0.85);
   color: $accent-magic;
   border: 1px solid $border-color;
   padding: 8px 20px;
   border-radius: 20px;
-  text-decoration: none !important;
-  font-weight: bold;
-  font-size: 14px;
-  z-index: 100;
   backdrop-filter: blur(5px);
-  transition: all 0.3s ease;
   display: flex;
   align-items: center;
   gap: 8px;
-  
+  transition: all 0.3s ease;
+
   &:hover {
     background: $accent-magic;
     color: $bg-dark;
-    border-color: $accent-magic;
     box-shadow: 0 0 15px rgba(179, 136, 255, 0.4);
   }
 }
@@ -114,4 +153,38 @@ img {
 ::selection {
   background: rgba(189, 147, 249, 0.4); /* Фиолетовый с прозрачностью 40% */
   color: inherit; /* Текст сохранит свой исходный цвет */
+}
+
+// Плавающая кнопка (фиксированная)
+.floating-home-btn {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1000;
+  
+  background: rgba(36, 31, 49, 0.85);
+  color: $accent-magic;
+  border: 1px solid $border-color;
+  padding: 8px 18px;
+  border-radius: 20px;
+  text-decoration: none !important;
+  font-weight: bold;
+  font-size: 14px;
+  backdrop-filter: blur(5px);
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  span {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+
+  &:hover {
+    background: $accent-magic;
+    color: $bg-dark;
+    border-color: $accent-magic;
+    box-shadow: 0 0 15px rgba(179, 136, 255, 0.5);
+    transform: scale(1.05);
+  }
 }
