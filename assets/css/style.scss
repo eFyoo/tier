@@ -2,48 +2,87 @@
 ---
 @import "{{ site.theme }}";
 
-// Цвета Элейны
-$bg-dark: #1a1625;
-$panel-bg: #241f31;
-$accent-magic: #b388ff;
-$text-main: #e0def4;
+// Основная цветовая палитра (Вайб Элейны)
+$bg-dark: #1a1625;        // Глубокий сумеречный фиолетовый
+$panel-bg: #241f31;      // Цвет страниц дневника
+$accent-magic: #b388ff;  // Магическое свечение
+$text-main: #e0def4;     // Мягкий светлый текст
+$border-color: #443e5a;
 
-// ПЕРЕКРЫТИЕ СТАНДАРТНОГО CAYMAN
+// 1. ПОЛНОСТЬЮ СКРЫВАЕМ ВЕРХНИЙ БЛОК (HEADER)
 .page-header {
-  background-color: $bg-dark !important;
-  background-image: linear-gradient(120deg, #1a1625, #2d283e) !important; // Фиолетовый градиент вместо зеленого
-  color: $accent-magic !important;
+  display: none !important;
 }
 
-.main-content {
-  color: $text-main !important;
-  background-color: $bg-dark !important;
-  font-family: 'Georgia', serif !important;
-}
-
+// 2. НАСТРОЙКА ОБЩЕГО ФОНА
 body {
   background-color: $bg-dark !important;
+  margin: 0;
+  padding: 0;
 }
 
-// Контейнер с текстом
-.main-content h2 {
+// 3. ОСНОВНОЙ КОНТЕНТ
+.main-content {
+  background-color: $bg-dark !important;
+  color: $text-main !important;
+  font-family: 'Georgia', serif !important; // Книжный шрифт
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem !important;
+  line-height: 1.6;
+
+  // Добавляем маленькую надпись "eFyoo / tier" в самом верху контента
+  &::before {
+    content: "eFyoo / tier";
+    display: block;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #6e7681;
+    margin-bottom: 30px;
+    opacity: 0.7;
+  }
+}
+
+// 4. ЗАГОЛОВКИ КАТЕГОРИЙ (Маст плей и т.д.)
+h2 {
   color: $accent-magic !important;
-  border-bottom: 1px solid $accent-magic !important;
+  border-bottom: 1px solid #443e5a !important;
+  padding-bottom: 8px;
+  margin-top: 40px !important;
+  font-style: italic;
+  font-weight: normal;
 }
 
-// Ссылки
-.main-content a {
+// 5. ССЫЛКИ НА ИГРЫ
+a {
   color: #90caf9 !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  
   &:hover {
-    text-shadow: 0 0 8px $accent-magic;
+    color: $accent-magic !important;
+    text-shadow: 0 0 8px rgba(179, 136, 255, 0.6);
+    border-bottom: 1px dashed $accent-magic;
   }
 }
 
-// Кнопка "View on GitHub"
-.btn {
-  color: $accent-magic !important;
-  border-color: $accent-magic !important;
-  &:hover {
-    background-color: rgba(179, 136, 255, 0.1) !important;
-  }
+// 6. ЦВЕТ ВЫДЕЛЕНИЯ ТЕКСТА
+::selection {
+  background: rgba(179, 136, 255, 0.3);
+  color: #ffffff;
+}
+
+// 7. АДАПТИВНОСТЬ ДЛЯ КАРТИНОК
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid $border-color;
+  margin-top: 10px;
+}
+
+// Убираем футер Cayman или стилизуем его
+.site-footer {
+  border-top: 1px solid $border-color !important;
+  color: #6e7681 !important;
 }
