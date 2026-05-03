@@ -12,3 +12,6 @@ sass:
 exclude:
   - README.md
   - .gitignore
+
+url: "https://efyo.ru"
+baseurl: "/tier"
