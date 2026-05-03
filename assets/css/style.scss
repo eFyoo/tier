@@ -93,14 +93,13 @@ h1, h2, h3, h4 {
 // Ссылки в тексте (теперь они заметны)
 a {
   color: $accent-links !important;
-  text-decoration: underline !important; // Подчеркивание для отличия от текста
-  text-underline-offset: 3px;
+  text-decoration: none !important;    // Убирает линию под ссылкой
   transition: all 0.2s ease;
   
   &:hover {
     color: #ffffff !important;
     text-shadow: 0 0 8px $accent-magic;
-    text-decoration: none !important;
+    text-decoration: underline !important; // Можно оставить подчеркивание только при наведении, чтобы было понятно, что это ссылка
   }
 }
 
