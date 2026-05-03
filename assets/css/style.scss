@@ -7,49 +7,90 @@ $bg-dark: #1a1625;
 $accent-magic: #b388ff;  
 $text-main: #e0def4;     
 $border-color: #443e5a;
+$accent-links: #ff9ead; // Новый акцентный цвет для ссылок (розово-коралловый)
 
-// Скрываем стандартную шапку Cayman
+html {
+  scroll-behavior: smooth; // Плавная прокрутка
+}
+
 .page-header {
   display: none !important;
 }
 
 body {
   background-color: $bg-dark !important;
+  color: $text-main !important;
   margin: 0;
+  // Повсюду Comic Sans
+  font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important; 
 }
 
 .main-content {
   background-color: $bg-dark !important;
   color: $text-main !important;
-  font-family: 'Georgia', serif !important;
+  font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important;
   max-width: 1000px;
   margin: 0 auto;
-  padding: 4rem 1.5rem !important;
+  padding: 5rem 1.5rem !important;
   position: relative;
 }
 
-// Навигационная ссылка tier
+// Навигационная ссылка tier (увеличена)
 .back-link {
-  font-family: -apple-system, sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 32px; // Увеличено для заметности
   color: $accent-magic !important;
   text-decoration: none !important;
   position: absolute;
   top: 20px;
   left: 1.5rem;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: scale(1.1);
+    text-shadow: 0 0 15px $accent-magic;
+  }
 }
 
-// Убираем зеленый цвет заголовков
+// Кнопка "Наверх"
+.scroll-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: $panel-bg;
+  color: $accent-magic;
+  border: 2px solid $accent-magic;
+  padding: 10px 15px;
+  border-radius: 50%;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 100;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: $accent-magic;
+    color: $bg-dark;
+    box-shadow: 0 0 15px $accent-magic;
+  }
+}
+
+// Заголовки (БЕЗ наклона)
 h1, h2, h3, h4 {
   color: $accent-magic !important;
   border-bottom: 1px solid $border-color !important;
-  font-style: italic;
+  font-style: normal !important; // Убираем наклон (italic)
+  font-weight: bold;
 }
 
+// Ссылки (Новый цвет)
 a {
-  color: #90caf9 !important;
+  color: $accent-links !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  
   &:hover {
     color: $accent-magic !important;
     text-shadow: 0 0 8px $accent-magic;
@@ -57,6 +98,7 @@ a {
 }
 
 img {
-  border-radius: 8px;
+  border-radius: 12px;
   border: 1px solid $border-color;
+  // Шляпы и картинки не трогаем, они в вайбе
 }
