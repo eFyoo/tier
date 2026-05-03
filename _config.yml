@@ -1,6 +1,6 @@
 # Основная информация
-title: "Дневник ефу"
-description: "Заметки и тир-листы в стиле Элейны"
+name: "Дневник ефу"
+description: "Тир-лист с заметками"
 
 # Тема-база
 remote_theme: pages-themes/cayman
