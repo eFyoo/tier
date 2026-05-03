@@ -1,6 +1,0 @@
-title: "Дневник ефу"
-description: "Заметки и тир-листы в стиле Элейны"
-remote_theme: pages-themes/cayman
-# Явно указываем путь к стилям, если стандартный не подхватился
-sass:
-  style: :compressed

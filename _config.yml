@@ -1,0 +1,14 @@
+# Основная информация
+title: "Дневник ефу"
+description: "Заметки и тир-листы в стиле Элейны"
+
+# Тема-база
+remote_theme: pages-themes/cayman
+
+# Настройки сборки
+sass:
+  style: :compressed
+
+exclude:
+  - README.md
+  - .gitignore
