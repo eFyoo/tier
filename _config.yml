@@ -14,4 +14,4 @@ exclude:
   - .gitignore
 
 url: "https://efyo.ru"
-baseurl: "/tier"
+baseurl: ""
