@@ -3,12 +3,13 @@
 @import "{{ site.theme }}";
 
 // Цвета Элейны
-$bg-dark: #1a1625;        
-$accent-magic: #b388ff;  
-$text-main: #e0def4;     
-$border-color: #443e5a;
-$panel-bg: #241f31;
-$accent-links: #c79eff; // Насыщенный лавандовый (заметен на фоне текста)
+$bg-dark: #1a1625;
+$accent-magic: #b388ff;
+$text-main: #cec4ff;
+$border-color: #7b0fd0;
+$img-border: #3b0764;
+$panel-bg: #2e1065;
+$accent-links: #a855f7; // Глубокая сирень
 
 html {
   scroll-behavior: smooth;
@@ -82,10 +83,10 @@ body {
   }
 }
 
-// Заголовки (без наклона)
+// Заголовки
 h1, h2, h3, h4 {
   color: $accent-magic !important;
-  border-bottom: 1px solid $border-color !important;
+  border-bottom: 1px solid $border-color !important; // Линия под текстом
   font-style: normal !important; 
   font-weight: bold;
 }
@@ -103,7 +104,8 @@ a {
   }
 }
 
+// Картинки
 img {
   border-radius: 12px;
-  border: 1px solid $border-color;
+  border: 2px solid $img-border !important; // Теперь цвет рамки картинки независим
 }
