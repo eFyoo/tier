@@ -7,10 +7,11 @@ $bg-dark: #1a1625;
 $accent-magic: #b388ff;  
 $text-main: #e0def4;     
 $border-color: #443e5a;
-$accent-links: #ff9ead; // Новый акцентный цвет для ссылок (розово-коралловый)
+$accent-links: #ff9ead; // Тот самый розово-коралловый
+$panel-bg: #241f31;    // Добавил переменную, на которую ругался гитхаб
 
 html {
-  scroll-behavior: smooth; // Плавная прокрутка
+  scroll-behavior: smooth;
 }
 
 .page-header {
@@ -21,7 +22,7 @@ body {
   background-color: $bg-dark !important;
   color: $text-main !important;
   margin: 0;
-  // Повсюду Comic Sans
+  // Comic Sans везде
   font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif !important; 
 }
 
@@ -35,15 +36,15 @@ body {
   position: relative;
 }
 
-// Навигационная ссылка tier (увеличена)
+// Навигационная ссылка tier (ОГРОМНАЯ)
 .back-link {
   font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
   font-weight: bold;
-  font-size: 32px; // Увеличено для заметности
+  font-size: 38px; 
   color: $accent-magic !important;
   text-decoration: none !important;
   position: absolute;
-  top: 20px;
+  top: 15px;
   left: 1.5rem;
   letter-spacing: 2px;
   transition: transform 0.2s ease;
@@ -62,11 +63,11 @@ body {
   background: $panel-bg;
   color: $accent-magic;
   border: 2px solid $accent-magic;
-  padding: 10px 15px;
+  padding: 10px 18px;
   border-radius: 50%;
   text-decoration: none;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 24px;
   z-index: 100;
   transition: all 0.3s ease;
   
@@ -81,11 +82,11 @@ body {
 h1, h2, h3, h4 {
   color: $accent-magic !important;
   border-bottom: 1px solid $border-color !important;
-  font-style: normal !important; // Убираем наклон (italic)
+  font-style: normal !important; 
   font-weight: bold;
 }
 
-// Ссылки (Новый цвет)
+// Ссылки (Розовые)
 a {
   color: $accent-links !important;
   text-decoration: none !important;
@@ -100,5 +101,4 @@ a {
 img {
   border-radius: 12px;
   border: 1px solid $border-color;
-  // Шляпы и картинки не трогаем, они в вайбе
 }
