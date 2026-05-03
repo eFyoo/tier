@@ -109,3 +109,9 @@ img {
   border-radius: 12px;
   border: 2px solid $img-border !important; // Теперь цвет рамки картинки независим
 }
+
+/* Цвет выделения для всего сайта */
+::selection {
+  background: rgba(189, 147, 249, 0.4); /* Фиолетовый с прозрачностью 40% */
+  color: inherit; /* Текст сохранит свой исходный цвет */
+}
