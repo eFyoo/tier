@@ -1,0 +1,63 @@
+// Основные цвета в стиле Элейны
+$bg-dark: #1a1625;        // Глубокий сумеречный фиолетовый
+$panel-bg: #241f31;      // Цвет страниц дневника
+$accent-magic: #b388ff;  // Магическое свечение
+$text-main: #e0def4;     // Мягкий светлый текст
+$border-color: #443e5a;
+
+body {
+  background-color: $bg-dark !important;
+  color: $text-main !important;
+  font-family: 'Georgia', serif !important; // "Книжный" шрифт
+  line-height: 1.6;
+}
+
+// Контейнер сайта (эффект парящей страницы)
+.container-lg {
+  background: $panel-bg;
+  border: 1px solid $border-color;
+  border-radius: 12px;
+  padding: 40px;
+  box-shadow: 0 0 20px rgba(179, 136, 255, 0.1);
+  margin-top: 50px;
+}
+
+// Заголовки (Маст плей и т.д.)
+h1, h2, h3 {
+  color: $accent-magic !important;
+  border-bottom: 1px solid $accent-magic !important;
+  padding-bottom: 10px;
+  font-style: italic;
+}
+
+// Ссылки на игры (эффект заклинания)
+a {
+  color: #90caf9 !important;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: $accent-magic !important;
+    text-shadow: 0 0 8px $accent-magic;
+    border-bottom: 1px dashed $accent-magic;
+  }
+}
+
+// Блоки кода (как заметки на полях)
+code {
+  background-color: #2d283e !important;
+  color: #ffcc80 !important;
+  border-radius: 4px;
+}
+
+// Стилизация картинок (чтобы не выбивались из стиля)
+img {
+  border: 2px solid $border-color;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+  
+  &:hover {
+    transform: scale(1.02);
+    border-color: $accent-magic;
+  }
+}

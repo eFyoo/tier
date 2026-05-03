@@ -1,5 +1,21 @@
-title: "ефулист"
-description: "Обзоры и оценки"
-remote_theme: jekyll/minima
-minima:
-  skin: dark
+# Основная информация о сайте
+title: "Дневник ефу"
+description: "Заметки и тир-листы в стиле Элейны"
+
+# Настройка удаленной темы (используем минимальную базу)
+remote_theme: pages-themes/cayman
+
+# Исключаем лишние файлы из сборки
+exclude:
+  - README.md
+  - .gitignore
+  - node_modules/
+
+# Настройки Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Опционально: если хочешь, чтобы ссылки открывались в новой вкладке
+kramdown:
+  input: GFM
+  hard_wrap: false
