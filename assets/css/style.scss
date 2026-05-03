@@ -188,3 +188,13 @@ img {
     transform: scale(1.05);
   }
 }
+
+@media (max-width: 480px) {
+  .scroll-to-top, .floating-home-btn {
+    position: static; // Кнопка перестает плавать и уходит в конец страницы
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    width: fit-content;
+  }
+}
