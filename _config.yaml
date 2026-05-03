@@ -1,21 +1,6 @@
-# Основная информация о сайте
 title: "Дневник ефу"
 description: "Заметки и тир-листы в стиле Элейны"
-
-# Настройка удаленной темы (используем минимальную базу)
 remote_theme: pages-themes/cayman
-
-# Исключаем лишние файлы из сборки
-exclude:
-  - README.md
-  - .gitignore
-  - node_modules/
-
-# Настройки Markdown
-markdown: kramdown
-highlighter: rouge
-
-# Опционально: если хочешь, чтобы ссылки открывались в новой вкладке
-kramdown:
-  input: GFM
-  hard_wrap: false
+# Явно указываем путь к стилям, если стандартный не подхватился
+sass:
+  style: :compressed
