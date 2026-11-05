@@ -18,7 +18,7 @@ Brutal Legend, [Blasphemous 2](games/Blasphemous-2.md), [Fallout 4: Game of the 
 [Afterimage](games/Afterimage.md), [WUCHANG: Fallen Feathers](games/WUCHANG-Fallen-Feathers.md), Trove (dead game xd), [Lords of the Fallen (2023)](games/Lords-of-the-Fallen-2023.md), [Bombun](games/Bombun.md), [Dark Souls 2](games/Dark-Souls-2.md), [Hell is Us](games/Hell-is-Us.md), Life is Strange, Homefront: The Revolution, Homefront, We Happy Few, League of Legends, [Nioh](games/Nioh.md), [Freedom Fighters](games/Freedom-Fighters.md), [Devil May Cry 2](games/Devil-May-Cry-2.md)
 
 ## 💩 Мусор (1-4)
-[Steelrising](games/Steelrising.md), [Black Souls 1](games/Black-Souls-1.md), [Genshin Impact](games/Genshin-Impact.md), [God Eater 3](games/God-Eater-3.md), [Mortal shell](games/Mortal-shell.md), Tower of Fantasy, [Darksiders Genesis](Darksiders-Genesis.md), [That Time I Got Reincarnated as a Slime ISEKAI Chronicles](games/That-Time-I-Got-Reincarnated-as-a-Slime-ISEKAI-Chronicles.md), [Rise of the Ronin](games/Rise-of-the-Ronin.md), [Soulstice](games/Soulstice.md), [Senua’s Saga: Hellblade II](games/Senuas-Saga-Hellblade-II.md), [Othercide](games/Othercide.md)
+[Steelrising](games/Steelrising.md), [Black Souls 1](games/Black-Souls-1.md), [Genshin Impact](games/Genshin-Impact.md), [God Eater 3](games/God-Eater-3.md), [Mortal shell](games/Mortal-shell.md), Tower of Fantasy, [Darksiders Genesis](games/Darksiders-Genesis.md), [That Time I Got Reincarnated as a Slime ISEKAI Chronicles](games/That-Time-I-Got-Reincarnated-as-a-Slime-ISEKAI-Chronicles.md), [Rise of the Ronin](games/Rise-of-the-Ronin.md), [Soulstice](games/Soulstice.md), [Senua’s Saga: Hellblade II](games/Senuas-Saga-Hellblade-II.md), [Othercide](games/Othercide.md)
 
 ## 🏳️ Дроп (без оценки)
 Gothic II, TES 3
